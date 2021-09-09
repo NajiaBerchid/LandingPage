@@ -31,7 +31,7 @@ nav .openMenu{
   display: none;
   cursor: pointer;
 }
-nav .mainMenu .closeMenu , .icons i {
+nav .mainMenu .closeMenu {
   font-size: 2rem;
   display: none;
   cursor: pointer;
